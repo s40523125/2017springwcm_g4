@@ -16,7 +16,9 @@
 		border: 0;
 		font-size: 100%;
 		font-family: 'Noto Sans TC',FontAwesome sans-serif;
-		vertical-align: baseline;
+		vertical-align:middle;
+		
+		
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -48,6 +50,13 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
+img {
+
+     height: auto;
+
+     max-width: 100%;
+
+ }
 
 /* Box Model */
 ul.dates li {
@@ -68,7 +77,9 @@ ul.dates li {
 		line-height: 1em;
 		border-top-left-radius: 5px;
 		border-bottom-left-radius: 5px;
-		padding: 0.5em 0.75em 0 1em;
+		padding: 0.4em 0em 0 0.8em;
+		
+		
 	}
 
 		ul.dates .date:after {
@@ -2454,7 +2465,7 @@ ul.dates li {
 		background-image: url("../../images/flower.jpg");
 		background-position:  center;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size:cover;
 		color: #fff;
 		cursor: default;
 		padding: 6em 0;
