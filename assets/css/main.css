@@ -2112,7 +2112,7 @@ ul.dates li {
 		font-size: 0.8em;
 		font-weight: 900;
 		letter-spacing: 2px;
-		min-width: 18em;
+		min-width: 8em;
 		padding: 0 0.75em;
 		line-height: 3.75em;
 		text-align: center;
@@ -3134,7 +3134,8 @@ ul.dates li {
 			input[type="submit"],
 			input[type="reset"],
 			.button {
-				max-width: 20em;
+				
+				max-width: 10em;
 				width: 100%;
 			}
 
@@ -3261,4 +3262,4 @@ ul.dates li {
 				height: 34px;
 			}
 
-	}
+	
