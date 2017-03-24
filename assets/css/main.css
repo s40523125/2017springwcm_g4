@@ -2468,7 +2468,7 @@ ul.dates li {
 		background-size:cover;
 		color: #fff;
 		cursor: default;
-		padding: 6em 0;
+		padding: em 0;
 		text-align: center;
 	}
 
@@ -2744,7 +2744,7 @@ ul.dates li {
 		/* Banner */
 
 			#banner {
-				background-size: 15em, 15em, auto, cover;
+				background-size: 50em, 50em, auto, cover;
 			}
 
 		/* Main */
@@ -3067,6 +3067,7 @@ ul.dates li {
 /* Mobile */
 
 	@media screen and (max-width: 736px) {
+		
 
 		/* Basic */
 
@@ -3186,7 +3187,7 @@ ul.dates li {
 		/* Banner */
 
 			#banner {
-				background-size: 10em, 10em, auto, cover;
+				background-size: 45em, 45em, auto, cover;
 				padding: 6em 0;
 			}
 
