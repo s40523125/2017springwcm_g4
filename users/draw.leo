@@ -18,132 +18,45 @@
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
-<v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
-<v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
-<v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20170623130947.1" a="E"><vh>slides div</vh>
+<v t="leo.20170623130947.2" a="E"><vh>封面投影片</vh>
+<v t="leo.20170623130947.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20161016023122.1" a="E"><vh>快捷鍵</vh>
-<v t="yen.20161016023122.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170623130947.4"><vh>快捷鍵</vh>
+<v t="leo.20170623130947.5"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="amd.20161004104820.1"><vh>三大主題教學</vh>
-<v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
-<v t="amd.20161004104641.2"><vh>計算機程式在教什麼?</vh></v>
+<v t="leo.20170623130947.6"><vh>課程學習重點</vh>
+<v t="leo.20170623130947.7"><vh>重點整理</vh></v>
 </v>
-<v t="yen.20161011155543.1" a="E"><vh>主題教學內容</vh>
-<v t="yen.20161011155543.2"><vh>計算機程式在教什麼?</vh></v>
+<v t="leo.20170623130947.8"><vh>機械設計講解</vh>
+<v t="leo.20170623130947.9" a="E"><vh>何謂機械設計</vh>
+<v t="leo.20170623130947.10"><vh>講解</vh></v>
 </v>
-<v t="yen.20161011115740.1" a="E"><vh>相關課程</vh>
-<v t="yen.20161011115740.2"><vh>計算機程式系列課程</vh></v>
-</v>
-<v t="amd.20161004105131.1" a="E"><vh>創造力</vh>
-<v t="amd.20161004105131.2"><vh>何謂創造力?</vh></v>
-</v>
-<v t="yen.20161011114704.1" a="E"><vh>創造力</vh>
-<v t="yen.20161011114704.2"><vh>何謂創造力?</vh></v>
-</v>
-<v t="yen.20161011121637.1"><vh>所謂自學</vh>
-<v t="yen.20161011121637.2"><vh>自學的訓練</vh></v>
-</v>
-<v t="amd.20161004105716.1"><vh>執行力</vh>
-<v t="amd.20161004105716.2"><vh>高效執行力</vh></v>
+<v t="leo.20170623130947.11" a="E"><vh>如何表達</vh>
+<v t="leo.20170623130947.12"><vh>講解</vh></v>
 </v>
 </v>
-<v t="yen.20161016004633.1"><vh>CP 課程倉儲</vh>
-<v t="yen.20161016004633.4"><vh>課程時段與規劃</vh>
-<v t="yen.20161016004633.5"><vh>規劃、Wiki 與網誌</vh></v>
+<v t="leo.20170623130947.13"><vh>Ubuntu環境</vh>
+<v t="leo.20170623130947.14"><vh>vi應用</vh></v>
 </v>
-<v t="yen.20161016010643.1"><vh>下載 miniconda 可攜環境</vh>
-<v t="yen.20161016010643.2"><vh>下載可攜程式環境</vh></v>
+<v t="leo.20170623130947.15"><vh>RJ-45網路線製作</vh>
+<v t="leo.20170623130947.16" a="E"><vh>製作心得</vh>
+<v t="leo.20170623130947.17"><vh>講解</vh></v>
 </v>
-<v t="yen.20161016010719.1" a="E"><vh>學員自評項目</vh>
-<v t="yen.20161016012922.1"><vh>下載可攜程式環境</vh></v>
-</v>
-</v>
-<v t="yen.20161011122932.1"><vh>自學力訓練</vh>
-<v t="yen.20161011122601.1" a="E"><vh>自學的材料</vh>
-<v t="yen.20161011122601.2"><vh>自學 Python3</vh></v>
-</v>
-<v t="yen.20161011122957.1" a="E"><vh>Python 執行環境</vh>
-<v t="yen.20161011122957.2"><vh>在哪裡執行?</vh></v>
-</v>
-<v t="yen.20161011123951.1" a="E"><vh>Python 解譯器</vh>
-<v t="yen.20161011123951.2"><vh>Python 解譯器</vh></v>
-</v>
-<v t="yen.20161011124118.1" a="E"><vh>Python 版次</vh>
-<v t="yen.20161011124118.2"><vh>Python 2 或 3?</vh></v>
+<v t="leo.20170623130947.18" a="E"><vh>蕊線色對規則</vh>
+<v t="leo.20170623130947.19"><vh>講解</vh></v>
 </v>
 </v>
-<v t="yen.20161011125115.1"><vh>執行力訓練</vh>
-<v t="yen.20161016011920.1" a="E"><vh>程式練習主題</vh>
-<v t="yen.20161016011920.2"><vh>程式專題</vh></v>
+<v t="leo.20170623130947.20"><vh>IPv4和IPv6環境差異</vh>
+<v t="leo.20170623130947.21"><vh>心得內容</vh></v>
 </v>
-<v t="yen.20161011125115.2" a="E"><vh>如何進行上課分組與排座位</vh>
-<v t="yen.20161011125115.3"><vh>課程分組排座位</vh></v>
-</v>
-<v t="yen.20161016012215.1" a="E"><vh>如何寫一個猜數字遊戲?</vh>
-<v t="yen.20161016012215.2"><vh>猜數字遊戲</vh></v>
-</v>
-<v t="yen.20161016012253.1" a="E"><vh>如何繪製 2D 靜態圖?</vh>
-<v t="yen.20161016012253.2"><vh>2D 繪圖</vh></v>
-</v>
-<v t="yen.20161016012402.1" a="E"><vh>如何製作一個簡單的網際遊戲?</vh>
-<v t="yen.20161016012402.2"><vh>網際遊戲</vh></v>
-</v>
-</v>
-<v t="yen.20161011143808.1"><vh>協同力訓練</vh>
-<v t="yen.20161011143808.2" a="E"><vh>Github 帳號</vh>
-<v t="yen.20161011143808.3"><vh>Github 倉儲網頁</vh></v>
-</v>
-<v t="yen.20161011144113.1"><vh>倉儲子模組串連</vh>
-<v t="yen.20161011144113.2"><vh>學員作業網頁定版</vh></v>
-</v>
-<v t="yen.20161011144715.1"><vh>倉儲版本拉回請求</vh>
-<v t="yen.20161011144715.2"><vh>Github 倉儲拉回請求</vh></v>
-</v>
-</v>
-<v t="yen.20161011145156.1"><vh>開始學 Python</vh>
-<v t="yen.20161011145156.2" a="E"><vh>Python 基本語法</vh>
-<v t="yen.20161011145156.3"><vh>Python3 語法</vh></v>
-</v>
-<v t="yen.20161011145156.4" a="E"><vh>Python 迴圈</vh>
-<v t="yen.20161011145156.5"><vh>for 迴圈用法</vh></v>
-</v>
-<v t="yen.20161011145156.6"><vh>Python 函式</vh>
-<v t="yen.20161011145156.7"><vh>函式用法</vh></v>
-</v>
-<v t="yen.20161011145755.1"><vh>Python 數列</vh>
-<v t="yen.20161011145755.2"><vh>數列用法</vh></v>
-</v>
-<v t="yen.20161011145952.1"><vh>分組程式</vh>
-<v t="yen.20161011145952.2"><vh>分組程式內容</vh></v>
-</v>
-<v t="yen.20161011150316.1"><vh>猜數字遊戲</vh>
-<v t="yen.20161011150316.2"><vh>遊戲邏輯</vh></v>
-</v>
-<v t="yen.20161011150126.1"><vh>2 D 繪圖</vh>
-<v t="yen.20161011150126.2"><vh>Python 網際繪圖</vh></v>
-</v>
-<v t="yen.20161011150901.1"><vh>2 D 動畫</vh>
-<v t="yen.20161011150901.2"><vh>網際動畫範例</vh></v>
-</v>
-</v>
-<v t="yen.20161016012809.1" a="E"><vh>各式內容引用範例</vh>
-<v t="yen.20161016012809.2" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20161016012809.3"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="yen.20161016012809.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20161016012809.5"><vh>引用程式碼</vh></v>
-</v>
-<v t="yen.20161016012809.6" a="E"><vh>導入影片</vh>
-<v t="yen.20161016012809.7"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
+<v t="leo.20170623130947.22"><vh>心得</vh>
+<v t="leo.20170623130947.23"><vh>心得內容</vh></v>
 </v>
 </v>
 </v>
@@ -290,93 +203,6 @@ print("hello")
 &lt;/script&gt;
 &lt;/body&gt;
 </t>
-<t tx="amd.20161004083800.6">&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="amd.20161004083800.7">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="amd.20161004095719.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004095719.2"># 2016Fall 計算機程式課程
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
-&lt;/small&gt;
-
-[blog](blog/index.html)
-
-</t>
-<t tx="amd.20161004104641.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004104641.2"># 計算機程式在教什麼?
-
-## 創造力
-## 表達力
-以及
-## 協同力
-
-</t>
-<t tx="amd.20161004104820.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="amd.20161004105131.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004105131.2"># 何謂創造力?
-
-## 能夠&lt;small&gt;&lt;span style="color:#FF0080"&gt;持續&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;自學&lt;/span&gt;
-## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;可執行&lt;/span&gt;流程
-&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
-## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;想像力&lt;/span&gt;
-
-</t>
-<t tx="amd.20161004105716.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004105716.2"># 高效執行力
-
-## 用對的方法
-## 在對的時機
-## 找對的人
-## 作對的事
-
-
-</t>
 <t tx="leo.20151212173315.1"></t>
 <t tx="leo.20151212173315.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -520,7 +346,28 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 [blog](blog/index.html)
 
 </t>
-<t tx="yen.20161011114704.1">&lt;section data-markdown&gt;
+<t tx="leo.20170623130947.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20170623130947.10"># 機械設計是什麼？
+
+&lt;span style="color:#00FF80"&gt;機械設計&lt;/span&gt;和&lt;span style="color:#00FF80"&gt;網際網路&lt;/span&gt;的相互關聯性
+
+##&lt;span style="color:#00FF80"&gt;機械設計&lt;/span&gt;可以說是&lt;span style="color:#FFFF00"&gt;表達&lt;/span&gt;的一種方式
+
+&lt;small&gt;當設計師不清楚答案時，也能以不同方式去表達出原有想法！&lt;/small&gt;
+
+
+
+
+
+
+
+</t>
+<t tx="leo.20170623130947.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -529,15 +376,19 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="yen.20161011114704.2"># 何謂創造力?
+<t tx="leo.20170623130947.12"># 表達方式和實際應用？
 
-## 能夠&lt;small&gt;&lt;span style="color:#FF0080"&gt;持續&lt;/span&gt;&lt;/small&gt;自學-&gt;&lt;span style="color:#FFFF00"&gt;不一定都要別人教&lt;/span&gt;
-## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;可執行流程-&gt;展現&lt;span style="color:#FFFF00"&gt;執行力&lt;/span&gt;
-&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
-## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;想像力-&gt;不受限, &lt;span style="color:#FFFF00"&gt;積極進行改造&lt;/span&gt;
+口語、文字、實體、量化，以最&lt;span style="color:#00FF80"&gt;適合&lt;/span&gt;的方式去針對人、事、物去表達設計理念，去使軟、硬體最佳化
+
+而利用網際網路，做&lt;span style="color:#00FF80"&gt;虛實整合&lt;/span&gt;的工程師，來讓我們的工作環境更彈性、友善、方便、直觀，而去增進工作效益
+
+
+
+
+
 
 </t>
-<t tx="yen.20161011115740.1">&lt;section data-markdown&gt;
+<t tx="leo.20170623130947.13">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -546,16 +397,19 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="yen.20161011115740.2"># 計算機程式系列課程
+<t tx="leo.20170623130947.14"># Ubuntu環境應用
 
-## 網際內容管理
-## 電腦輔助設計實習
-&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
-## 協同產品設計實習
-也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
+安裝nginx
+&lt;iframe src="https://player.vimeo.com/video/215047306" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
 
 </t>
-<t tx="yen.20161011121637.1">&lt;section data-markdown&gt;
+<t tx="leo.20170623130947.15">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170623130947.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -564,15 +418,32 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="yen.20161011121637.2"># 自學的訓練
+<t tx="leo.20170623130947.17"># RJ-45網路線製作
 
-## 學員必須自己有學習動機
-## 能消化中英文資料
-## 從中體會學習的意義
+*工具
 
+&lt;small&gt;
+RJ-45 壓線鉗
+剝線工具
+&lt;/small&gt;
 
-</t>
-<t tx="yen.20161011122601.1">&lt;section data-markdown&gt;
+*材料
+
+&lt;small&gt;
+8 蕊網路線 
+RJ-45 接頭 
+護套 
+&lt;/small&gt;
+
+*製作步驟
+
+&lt;small&gt;
+1. 先將網路線剝開
+2. 按照網路線色對規則排好順序
+3. 將線對整理好並剪齊 
+4. 插入 RJ-45 接頭以壓線鉗壓製即可完成 (務必將線對插到底，以免造成傳輸品質不良)
+&lt;small&gt;</t>
+<t tx="leo.20170623130947.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -581,19 +452,25 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="yen.20161011122601.2"># 自學 Python3
+<t tx="leo.20170623130947.19"># 網路線色對規則
 
-[Python3 程式範例](https://github.com/mdecourse/2016fallcp/blob/master/python3program.py)
-### 在哪裡執行?
-### 如何執行?
-### 如何寫心得?
-### 如何錄製操作過程?
+1. 一般傳輸用網路線色對規則 (兩端的網路頭皆為以下接法)
+白橙、橙、白綠、藍、白藍、綠、白棕、棕
+
+2. 兩台電腦資料對傳用色對規則 (又稱跳接法、一頭以正常傳輸色對接法、另一頭則為以下接法)
+白綠、綠、白橙、藍、白藍、橙、白棕、棕 (橙綠對調)
+
+&lt;small&gt;
+RJ-45 跳線 (CrossOver) 補充說明
+跳線原理就是要把 A 電腦的發送端傳輸到 B 電腦的接收端 (送收對調)，如此才可以送收資料，因此要跳線
+而一般網路線主要是以 1, 2, 3, 6 用為傳送接收訊號，所以可以發現跳線對調的顏色就是 1, 2, 3, 6
+備註：HUB 會替你把不同電腦的發送和接收對接，所以透過 HUB 就不要跳線
+&lt;/small&gt;
+
+
+
 </t>
-<t tx="yen.20161011122932.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="yen.20161011122957.1">&lt;section data-markdown&gt;
+<t tx="leo.20170623130947.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -602,13 +479,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="yen.20161011122957.2"># 在哪裡執行?
-
-### 單機操作系統中 (近端)
-### 單機連結到遠端主機中 (遠端)
-### 瀏覽器中 (網際端)
-</t>
-<t tx="yen.20161011123951.1">&lt;section data-markdown&gt;
+<t tx="leo.20170623130947.20">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -617,21 +488,23 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="yen.20161011123951.2"># Python 解譯器
+<t tx="leo.20170623130947.21"># IPv4和IPv6環境差異
 
-CPython: https://www.python.org/
+##IPv4
+ 
+&lt;span style="color:#00FF80"&gt;proxy: proxy.mde.tw、3128&lt;/span&gt;
 
-(Anaconda: https://www.continuum.io/downloads)
-    
-IronPython (.NET): http://ironpython.net/
+&lt;span style="color:#00FF80"&gt;IP:140.130.17.17&lt;/span&gt;
 
-Jython (Java): http://www.jython.org/
+##IPv6
 
-Pypy (Python): http://pypy.org/
+&lt;span style="color:#00FF80"&gt;proxy:[2001:288:6004:17::17]、3128&lt;/span&gt;
 
-Brython (Javascript): https://www.brython.info/
-</t>
-<t tx="yen.20161011124118.1">&lt;section data-markdown&gt;
+IP:
+
+&lt;span style="color:#00FF80"&gt;虎科 - [2001:288:6004:1::2]
+中華電信 - [2001:b000:168::1]&lt;/span&gt;</t>
+<t tx="leo.20170623130947.22">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -640,17 +513,29 @@ Brython (Javascript): https://www.brython.info/
 
 						
 </t>
-<t tx="yen.20161011124118.2"># Python 2 或 3?
+<t tx="leo.20170623130947.23"># 期末心得
 
-### 業界大部份仍以 2.7 版為主
-但是, 若沒有特別約束
-### 建議直接學習 Python3
+在這學期中，最讓我印象深刻的內容就是製作網路線和架設伺服器；經過老師講解，了解到網路線的各種規格的差別和應用，而我們所製作的RJ-45規格裏頭，蕊線的排列順序不同，做出來的線應用方式也不同，從中了解到其中蕊線的功用之後，非常有趣；而在架設伺服器的方面，我們合併了舊電腦的硬體後再安裝了Ubuntu16.04的作業系統來作為我們的課程倉儲放設的伺服器，這種從硬體到軟體的建立過程，很有成就感；雖說在學期的課程中遇到許多疑難雜症，但在課後詢問了同學，也上網搜尋資料，大致上也了解到了網際網路應用的方便性，是值得好好學習的。
+
+
+
 </t>
-<t tx="yen.20161011125115.1">&lt;section&gt;
-@others
-&lt;/section&gt;
+<t tx="leo.20170623130947.3"># 2017springwcm_hw 網際網路管理課程
+
+### 四設一甲_張志雲
+
+### 40523125
+
+&lt;small&gt;
+Created by [Eazel](https://github.com/s40523125)
+&lt;/small&gt;
+
+[blog](https://s40523125.github.io/2017springwcm_hw/blog/)
+
+[小組倉儲](https://mde2a2.kmol.info/wcmg4/home)
+
 </t>
-<t tx="yen.20161011125115.2">&lt;section data-markdown&gt;
+<t tx="leo.20170623130947.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -659,407 +544,7 @@ Brython (Javascript): https://www.brython.info/
 
 						
 </t>
-<t tx="yen.20161011125115.3"># 課程分組排座位
-
-* 想像一下分組流程
-* 請畫出流程圖
-* 如何進行最好?
-</t>
-<t tx="yen.20161011143808.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="yen.20161011143808.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011143808.3"># Github 倉儲網頁
-
-####建立個人 Github 網頁 (帳號.github.io)
-####建立個人課程作業網頁 (納入投影片與網誌架構)
-####組長建立分組的評量網頁 (納入投影片與網誌架構)
-</t>
-<t tx="yen.20161011144113.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011144113.2"># 學員作業網頁定版
-
-###個人作業網頁內容可以隨時改版
-###分組評量網頁必須在指定時間前定版
-###Github 倉儲 gh-pages分支與子模組應用
-</t>
-<t tx="yen.20161011144715.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011144715.2"># Github 倉儲拉回請求
-
-####分組倉儲 Collaborators 設定
-####分組倉儲版本 Pull Requests 練習
-####各組員實際操作影片錄製
-####操作影片加字幕以及影片檔相加
-</t>
-<t tx="yen.20161011145156.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="yen.20161011145156.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011145156.3"># Python3 語法
-
-####print()
-####input()
-####變數名稱與關鍵字
-</t>
-<t tx="yen.20161011145156.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011145156.5"># for 迴圈用法
-
-###Python 程式縮排
-###for i in range(5)：
-###數列與 iterator
-
-</t>
-<t tx="yen.20161011145156.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011145156.7"># 函式用法
-
-####函式定義
-####函式呼叫與傳值
-####函式載入順序
-</t>
-<t tx="yen.20161011145755.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011145755.2"># 數列用法
-
-####數列與索引
-####數列與字串
-####數列排序
-</t>
-<t tx="yen.20161011145952.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011145952.2"># 分組程式內容
-
-####讀取原始資料內容
-####設法分割資料, 納入數列
-####根據設計邏輯進行資料處理
-</t>
-<t tx="yen.20161011150126.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011150126.2"># Python 網際繪圖
-
-####Brython 簡介
-####Brython 執行設定
-####基本繪圖練習 (五芒星、正齒輪與各國國旗)
-</t>
-<t tx="yen.20161011150316.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011150316.2"># 遊戲邏輯
-
-####1-100 中隨機取一個數字作為答案
-####設法讓使用者猜這個數字 (接受輸入)
-####使用每猜一次都回答比答案大或小
-####能在一定次數中猜對者獲勝
-####在單機或網際執行程式?
-</t>
-<t tx="yen.20161011150901.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011150901.2"># 網際動畫範例
-
-####機構模擬
-####猜顏色遊戲
-####網際對戰遊戲
-</t>
-<t tx="yen.20161011155543.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161011155543.2"># 計算機程式在教什麼?
-
-## &lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;&lt;small&gt;=自學力+程式力+想像力&lt;/small&gt;
-## &lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;&lt;small&gt;=口語+文字+2D+3D+理論+實體&lt;/small&gt;
-&lt;span style="color:#00FF80"&gt;以及&lt;/span&gt;
-## &lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;&lt;small&gt;=電腦+網路+工具+專案&lt;/small&gt;
-
-</t>
-<t tx="yen.20161016004633.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="yen.20161016004633.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016004633.5"># 計算機程式課程規劃
-
-## [課程規劃](https://github.com/mdecourse/2016fallcp/blob/master/syllabus.py)
-## [課程 Wiki](https://github.com/mdecourse/2016fallcp/wiki)
-## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcp.html)
-
-</t>
-<t tx="yen.20161016010643.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016010643.2">## 下載 miniconda 可攜環境
-
-  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
-  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
-  * start.bat 啟動, stop.bat 關閉
-  * 建議存在隨身硬碟中使用
-
-
-</t>
-<t tx="yen.20161016010719.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016011920.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016011920.2"># 計算機程式專題
-
-* 如何進行上課分組與排座位?
-* 如何寫一個猜數字遊戲?
-* 如何繪製 2D 靜態圖?
-* 如何製作一個簡單的網際遊戲?
-</t>
-<t tx="yen.20161016012215.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016012215.2"># 猜數字遊戲
-
-* 單機執行還是瀏覽器執行?
-* 請畫出流程圖
-* 有沒有參考資料?
-</t>
-<t tx="yen.20161016012253.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016012253.2"># 2D 繪圖
-
-* 單機執行還是瀏覽器執行?
-* 請畫出流程圖
-* 有沒有參考資料?
-</t>
-<t tx="yen.20161016012402.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016012402.2"># 網際遊戲
-
-* 單機執行還是瀏覽器執行?
-* 請畫出流程圖
-* 有沒有參考資料?
-</t>
-<t tx="yen.20161016012809.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="yen.20161016012809.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20161016012809.3"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20161016012809.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20161016012809.5">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20161016012809.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016012809.7">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="yen.20161016012922.1">## 學員自評項目
-
-* 上課筆記與心得寫在個人的 2016fallcp_hw 倉儲 Wiki 中
-* 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
-* 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
-* 每週更新個人與分組的 Github Pages 投影片與網誌
-</t>
-<t tx="yen.20161016023122.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016023122.2"># 投影片快捷鍵
+<t tx="leo.20170623130947.5"># 投影片快捷鍵
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
@@ -1068,6 +553,40 @@ make.start()
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
+</t>
+<t tx="leo.20170623130947.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623130947.7"># 課程重點整理
+
+* 機械設計是什麼？
+* CMSimfly應用相關
+* Ubuntu作業系統安裝及環境網路設定
+* RJ-45網路線製作
+* 網址跳轉
+* IPv6與IPv4環境應用
+
+
+
+</t>
+<t tx="leo.20170623130947.8">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170623130947.9">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
 </t>
 <t tx="yen.20161022111056.1">@language python
 import os
