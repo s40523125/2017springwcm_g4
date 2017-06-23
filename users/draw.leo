@@ -23,40 +23,42 @@
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
-<v t="leo.20170623130947.1" a="E"><vh>slides div</vh>
-<v t="leo.20170623130947.2" a="E"><vh>封面投影片</vh>
-<v t="leo.20170623130947.3"><vh>封面投影片內容</vh></v>
+<v t="leo.20170623131340.1"><vh>reveal div</vh>
+<v t="leo.20170623131340.2" a="E"><vh>slides div</vh>
+<v t="leo.20170623131340.3" a="E"><vh>封面投影片</vh>
+<v t="leo.20170623131340.4"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170623130947.4"><vh>快捷鍵</vh>
-<v t="leo.20170623130947.5"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170623131340.5"><vh>快捷鍵</vh>
+<v t="leo.20170623131340.6"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20170623130947.6"><vh>課程學習重點</vh>
-<v t="leo.20170623130947.7"><vh>重點整理</vh></v>
+<v t="leo.20170623131340.7"><vh>課程學習重點</vh>
+<v t="leo.20170623131340.8"><vh>重點整理</vh></v>
 </v>
-<v t="leo.20170623130947.8"><vh>機械設計講解</vh>
-<v t="leo.20170623130947.9" a="E"><vh>何謂機械設計</vh>
-<v t="leo.20170623130947.10"><vh>講解</vh></v>
+<v t="leo.20170623131340.9"><vh>機械設計講解</vh>
+<v t="leo.20170623131340.10" a="E"><vh>何謂機械設計</vh>
+<v t="leo.20170623131340.11"><vh>講解</vh></v>
 </v>
-<v t="leo.20170623130947.11" a="E"><vh>如何表達</vh>
-<v t="leo.20170623130947.12"><vh>講解</vh></v>
-</v>
-</v>
-<v t="leo.20170623130947.13"><vh>Ubuntu環境</vh>
-<v t="leo.20170623130947.14"><vh>vi應用</vh></v>
-</v>
-<v t="leo.20170623130947.15"><vh>RJ-45網路線製作</vh>
-<v t="leo.20170623130947.16" a="E"><vh>製作心得</vh>
-<v t="leo.20170623130947.17"><vh>講解</vh></v>
-</v>
-<v t="leo.20170623130947.18" a="E"><vh>蕊線色對規則</vh>
-<v t="leo.20170623130947.19"><vh>講解</vh></v>
+<v t="leo.20170623131340.12" a="E"><vh>如何表達</vh>
+<v t="leo.20170623131340.13"><vh>講解</vh></v>
 </v>
 </v>
-<v t="leo.20170623130947.20"><vh>IPv4和IPv6環境差異</vh>
-<v t="leo.20170623130947.21"><vh>心得內容</vh></v>
+<v t="leo.20170623131340.14"><vh>Ubuntu環境</vh>
+<v t="leo.20170623131340.15"><vh>vi應用</vh></v>
 </v>
-<v t="leo.20170623130947.22"><vh>心得</vh>
-<v t="leo.20170623130947.23"><vh>心得內容</vh></v>
+<v t="leo.20170623131340.16"><vh>RJ-45網路線製作</vh>
+<v t="leo.20170623131340.17" a="E"><vh>製作心得</vh>
+<v t="leo.20170623131340.18"><vh>講解</vh></v>
+</v>
+<v t="leo.20170623131340.19" a="E"><vh>蕊線色對規則</vh>
+<v t="leo.20170623131340.20"><vh>講解</vh></v>
+</v>
+</v>
+<v t="leo.20170623131340.21"><vh>IPv4和IPv6環境差異</vh>
+<v t="leo.20170623131340.22"><vh>心得內容</vh></v>
+</v>
+<v t="leo.20170623131340.23"><vh>心得</vh>
+<v t="leo.20170623131340.24"><vh>心得內容</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -346,13 +348,21 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 [blog](blog/index.html)
 
 </t>
-<t tx="leo.20170623130947.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
+<t tx="leo.20170623131340.1">&lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20170623130947.10"># 機械設計是什麼？
+<t tx="leo.20170623131340.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623131340.11"># 機械設計是什麼？
 
 &lt;span style="color:#00FF80"&gt;機械設計&lt;/span&gt;和&lt;span style="color:#00FF80"&gt;網際網路&lt;/span&gt;的相互關聯性
 
@@ -367,7 +377,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 
 </t>
-<t tx="leo.20170623130947.11">&lt;section data-markdown&gt;
+<t tx="leo.20170623131340.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -376,7 +386,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170623130947.12"># 表達方式和實際應用？
+<t tx="leo.20170623131340.13"># 表達方式和實際應用？
 
 口語、文字、實體、量化，以最&lt;span style="color:#00FF80"&gt;適合&lt;/span&gt;的方式去針對人、事、物去表達設計理念，去使軟、硬體最佳化
 
@@ -388,7 +398,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 
 </t>
-<t tx="leo.20170623130947.13">&lt;section data-markdown&gt;
+<t tx="leo.20170623131340.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -397,7 +407,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170623130947.14"># Ubuntu環境應用
+<t tx="leo.20170623131340.15"># Ubuntu環境應用
 
 安裝nginx
 &lt;iframe src="https://player.vimeo.com/video/215047306" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -405,11 +415,11 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 
 </t>
-<t tx="leo.20170623130947.15">&lt;section&gt;
+<t tx="leo.20170623131340.16">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20170623130947.16">&lt;section data-markdown&gt;
+<t tx="leo.20170623131340.17">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -418,7 +428,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170623130947.17"># RJ-45網路線製作
+<t tx="leo.20170623131340.18"># RJ-45網路線製作
 
 *工具
 
@@ -443,7 +453,7 @@ RJ-45 接頭
 3. 將線對整理好並剪齊 
 4. 插入 RJ-45 接頭以壓線鉗壓製即可完成 (務必將線對插到底，以免造成傳輸品質不良)
 &lt;small&gt;</t>
-<t tx="leo.20170623130947.18">&lt;section data-markdown&gt;
+<t tx="leo.20170623131340.19">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -452,7 +462,13 @@ RJ-45 接頭
 
 						
 </t>
-<t tx="leo.20170623130947.19"># 網路線色對規則
+<t tx="leo.20170623131340.2">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20170623131340.20"># 網路線色對規則
 
 1. 一般傳輸用網路線色對規則 (兩端的網路頭皆為以下接法)
 白橙、橙、白綠、藍、白藍、綠、白棕、棕
@@ -470,7 +486,7 @@ RJ-45 跳線 (CrossOver) 補充說明
 
 
 </t>
-<t tx="leo.20170623130947.2">&lt;section data-markdown&gt;
+<t tx="leo.20170623131340.21">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -479,16 +495,7 @@ RJ-45 跳線 (CrossOver) 補充說明
 
 						
 </t>
-<t tx="leo.20170623130947.20">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170623130947.21"># IPv4和IPv6環境差異
+<t tx="leo.20170623131340.22"># IPv4和IPv6環境差異
 
 ##IPv4
  
@@ -504,7 +511,7 @@ IP:
 
 &lt;span style="color:#00FF80"&gt;虎科 - [2001:288:6004:1::2]
 中華電信 - [2001:b000:168::1]&lt;/span&gt;</t>
-<t tx="leo.20170623130947.22">&lt;section data-markdown&gt;
+<t tx="leo.20170623131340.23">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -513,14 +520,23 @@ IP:
 
 						
 </t>
-<t tx="leo.20170623130947.23"># 期末心得
+<t tx="leo.20170623131340.24"># 期末心得
 
 在這學期中，最讓我印象深刻的內容就是製作網路線和架設伺服器；經過老師講解，了解到網路線的各種規格的差別和應用，而我們所製作的RJ-45規格裏頭，蕊線的排列順序不同，做出來的線應用方式也不同，從中了解到其中蕊線的功用之後，非常有趣；而在架設伺服器的方面，我們合併了舊電腦的硬體後再安裝了Ubuntu16.04的作業系統來作為我們的課程倉儲放設的伺服器，這種從硬體到軟體的建立過程，很有成就感；雖說在學期的課程中遇到許多疑難雜症，但在課後詢問了同學，也上網搜尋資料，大致上也了解到了網際網路應用的方便性，是值得好好學習的。
 
 
 
 </t>
-<t tx="leo.20170623130947.3"># 2017springwcm_hw 網際網路管理課程
+<t tx="leo.20170623131340.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623131340.4"># 2017springwcm_hw 網際網路管理課程
 
 ### 四設一甲_張志雲
 
@@ -535,7 +551,7 @@ Created by [Eazel](https://github.com/s40523125)
 [小組倉儲](https://mde2a2.kmol.info/wcmg4/home)
 
 </t>
-<t tx="leo.20170623130947.4">&lt;section data-markdown&gt;
+<t tx="leo.20170623131340.5">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -544,7 +560,7 @@ Created by [Eazel](https://github.com/s40523125)
 
 						
 </t>
-<t tx="leo.20170623130947.5"># 投影片快捷鍵
+<t tx="leo.20170623131340.6"># 投影片快捷鍵
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
@@ -554,7 +570,7 @@ Created by [Eazel](https://github.com/s40523125)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
-<t tx="leo.20170623130947.6">&lt;section data-markdown&gt;
+<t tx="leo.20170623131340.7">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -563,7 +579,7 @@ Created by [Eazel](https://github.com/s40523125)
 
 						
 </t>
-<t tx="leo.20170623130947.7"># 課程重點整理
+<t tx="leo.20170623131340.8"># 課程重點整理
 
 * 機械設計是什麼？
 * CMSimfly應用相關
@@ -575,18 +591,9 @@ Created by [Eazel](https://github.com/s40523125)
 
 
 </t>
-<t tx="leo.20170623130947.8">&lt;section&gt;
+<t tx="leo.20170623131340.9">&lt;section&gt;
 @others
 &lt;/section&gt;
-</t>
-<t tx="leo.20170623130947.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
 <t tx="yen.20161022111056.1">@language python
 import os
